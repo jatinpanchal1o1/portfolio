@@ -1,5 +1,5 @@
 
-<!-- <img src="/preview.gif" alt="preview" width="600px" /> -->
+<img src="/src/assets/Screenshot-portfolio.png" alt="preview" width="600px" />
 
 ## Follow Below instructions to add your deatils in the portfolio.
 
