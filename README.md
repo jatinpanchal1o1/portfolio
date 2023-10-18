@@ -8,7 +8,7 @@
 #### Open `/src/Details.js` & modify it as per your need.
 
 ```javascript
-/ Enter your Personal Details here
+/ Enter your Personal Detail here
 export const personalDetails = {
   name: "Jatin Panchal",
   tagline: "I build things for web",
