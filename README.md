@@ -1,3 +1,8 @@
+## See Profile with thids link :
+
+https://port-foliorc.netlify.app
+
+## Screen short :
 
 <img src="/src/assets/Screenshot-portfolio.png" alt="preview" width="600px" />
 
