@@ -127,8 +127,8 @@ export const projectDetails = [
     image: projectImage3,
     description: `Try to achive sun dail system by using react, and there precomponent`,
     techstack: "Node.js,React.js,Tailwind,Chart.js,etc.",
-    previewLink: "https://github.com/jatinpanchal1o1/ertarn-inter",
-    githubLink: "https://jatinpanchal1o1.github.io/ertarn-inter/",
+    previewLink: "https://jatinpanchal1o1.github.io/ertarn-inter/",
+    githubLink: "https://github.com/jatinpanchal1o1/ertarn-inter",
   },
   {
     title: "React Project",
