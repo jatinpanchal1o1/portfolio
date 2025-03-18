@@ -49,7 +49,7 @@ export const personalDetails = {
 export const socialMediaUrl = {
   linkdein: "https://www.linkedin.com/in/jatinpanchal1o1",
   github: "https://github.com/jatinpanchal1o1",
-  twitter: "https://twitter.com/JatinPanchal1o1",
+  twitter: "https://twitter.com/JatinPanch1o1",
   instagram: "https://www.instagram.com/v.id_creation",
 };
 
