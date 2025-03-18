@@ -19,6 +19,9 @@ import git from "./assets/techstack/git.png";
 import npm from "./assets/techstack/npm.png";
 import postman from "./assets/techstack/postman.png";
 import figma from "./assets/techstack/figma.png";
+import spring from "./assets/techstack/spring.png";
+import java from "./assets/techstack/java.png";
+import docker from "./assets/techstack/docker.png";
 // Porject Images
 import projectImage1 from "./assets/projects/project1.jpg";
 import projectImage2 from "./assets/projects/project2.jpg";
@@ -46,14 +49,14 @@ export const personalDetails = {
 export const socialMediaUrl = {
   linkdein: "https://www.linkedin.com/in/jatinpanchal1o1",
   github: "https://github.com/jatinpanchal1o1",
-  twitter: "https://twitter.com/",
-  instagram: "https://www.instagram.com/",
+  twitter: "https://twitter.com/JatinPanchal1o1",
+  instagram: "https://www.instagram.com/v.id_creation",
 };
 
 // Enter your Work Experience here
 export const workDetails = [
   {
-    Position: "Junior Software Developer",
+    Position: "Software Developer",
     Company: `Collectent`,
     Location: "Gurugaon",
     Type: "Full Time",
@@ -64,7 +67,7 @@ export const workDetails = [
     Company: `Global Logic`,
     Location: "Gurugaon",
     Type: "Full Time",
-    Duration: "Sep 2022 - Aug 2023",
+    Duration: "Sep 2022 - Aug 2024",
   },
 ];
 
@@ -100,6 +103,9 @@ export const techStackDetails = {
   postman: postman,
   npm: npm,
   git: git,
+  spring: spring,
+  java: java,
+  docker: docker,
   github: github,
   figma: figma,
 };
@@ -107,18 +113,18 @@ export const techStackDetails = {
 // Enter your Project Details here
 export const projectDetails = [
   {
-    title: "Login Page",
+    title: "Landing Page",
     image: projectImage1,
     description: `Simple Login page with use of html,css,js,bootstrap,etc.`,
-    techstack: "HTML,CSS,JavaScript,Bootstrap",
-    previewLink: "https://jatinpanchal1o1.github.io/web-project/login-page.html",
+    techstack: "HTML,CSS,JavaScript,Bootstrap,Git,etc.",
+    previewLink: "https://jatinpanchal1o1.github.io/web-project/landing-page.html",
     githubLink: "https://github.com/jatinpanchal1o1/web-project",
   },
   {
     title: "Website on Sass",
     image: projectImage2,
     description: `Ecommers website based on Sass css, which shop products online.`,
-    techstack: "HTML,CSS,JavaScript,Bootstrap,Sass",
+    techstack: "HTML,CSS,JavaScript,Bootstrap,Sass,Git,etc.",
     previewLink: "https://jatinpanchal1o1.github.io/SASS-Site/",
     githubLink: "https://github.com/jatinpanchal1o1/SASS-Site",
   },
@@ -131,12 +137,36 @@ export const projectDetails = [
     githubLink: "https://github.com/jatinpanchal1o1/ertarn-inter",
   },
   {
-    title: "React Project",
+    title: "Spark Project",
     image: projectImage4,
-    description: `Using React component to create react dashboard for retrieving details`,
-    techstack: "Node.js,React.js,Mui,etc.",
+    description: `Using MERN to create react app for intership`,
+    techstack: "Node.js,React.js,TailwindCss,PostCss,Git,etc.",
+    previewLink: "https://jatinpanchal1o1.github.io/spark-cuvette/",
+    githubLink: "https://github.com/jatinpanchal1o1/spark-cuvette",
+  },
+  {
+    title: "Wed Cell Project",
+    image: projectImage3,
+    description: `React Native collaboration project for WedCell company`,
+    techstack: "Node.js,React Native,Tailwind,PostCss,Yarn,Git,Chart.js,etc.",
+    previewLink: "https://wedcellinstitute.com/",
+    githubLink: "https://github.com/ranjandsingh/wedcell-website",
+  },
+  {
+    title: "Dashboard",
+    image: projectImage3,
+    description: `React Native collaboration project for Dazzie`,
+    techstack: "Node.js,React,Tailwind,PostCss,Yarn,Git,Chart.js,etc.",
     previewLink: "https://jatinpanchal1o1.github.io/inter-project/",
     githubLink: "https://github.com/jatinpanchal1o1/inter-project",
+  },
+  {
+    title: "Shopping Web",
+    image: projectImage2,
+    description: `React and Spring project`,
+    techstack: "Node.js,React,Spring,Tailwind,PostCss,Yarn,Git,Chart.js,etc.",
+    previewLink: "https://jatinpanchal1o1.github.io/Spring1o1ReactProject/",
+    githubLink: "https://github.com/jatinpanchal1o1/Spring1o1ReactProject",
   },
 ];
 

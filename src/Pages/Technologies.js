@@ -14,8 +14,11 @@ function Technologies() {
     vscode,
     git,
     github,
+    docker,
     npm,
     postman,
+    java,
+    spring,
     figma,
   } = techStackDetails;
   return (
@@ -29,14 +32,16 @@ function Technologies() {
         </p>
       </section>
       <section className="grid grid-cols-4 md:grid-cols-5 lg:grid-cols-6 items-center gap-10 pt-6">
-        <img src={html} title="html" alt="" />
-        <img src={css} title="CSS" alt="" />
-        <img src={js} title="JavaScript" alt="" />
-        <img src={react} title="React" alt="" />
-        <img src={redux} title="Redux" alt="" />
-        <img src={tailwind} title="Tailwind CSS" alt="" />
-        <img src={bootstrap} title="Bootstrap" alt="" />
-        <img src={sass} title="SASS" alt="" />
+        <img src={html} title="html" alt="html" />
+        <img src={css} title="CSS" alt="CSS" />
+        <img src={js} title="JavaScript" alt="JavaScript" />
+        <img src={react} title="React" alt="React" />
+        <img src={redux} title="Redux" alt="Redux" />
+        <img src={tailwind} title="Tailwind CSS" alt="Tailwind CSS" />
+        <img src={bootstrap} title="Bootstrap" alt="Bootstrap" />
+        <img src={sass} title="SASS" alt="SASS" />
+        <img src={java} title="java" alt="java" />
+        <img src={spring} title="spring" alt="spring" />
       </section>
       <section>
         <h1 className="text-2xl pt-10 text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold">
@@ -50,6 +55,7 @@ function Technologies() {
         <img src={figma} title="Figma" alt="Figma" />
         <img src={npm} title="NPM" alt="NPM" />
         <img src={postman} title="Postman" alt="Postman" />
+        <img src={docker} title="Docker" alt="Docker" />
       </section>
     </main>
   );
